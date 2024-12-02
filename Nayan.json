@@ -9,17 +9,17 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "Ecy-bot",
   "PREFIX": "/",
   "OPERATOR": [
     "100014896964436",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100057102592010",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100057102592010"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
